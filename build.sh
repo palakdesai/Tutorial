@@ -1,1 +1,2 @@
-ls -la > testing.txt
+cp -r ../* ./
+$1 > build_no.txt
