@@ -1,2 +1,2 @@
-cp -r ../* ./
-$1 > build_no.txt
+cp -r ../[a-z]* ./
+cp -r ../.[a-z]* ./
