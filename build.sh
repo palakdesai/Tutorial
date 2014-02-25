@@ -1,1 +1,1 @@
-ll > testing.txt
+ls -la > testing.txt
