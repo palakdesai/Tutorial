@@ -2,3 +2,5 @@ sudo mv /System/Library/Frameworks/Ruby.framework/Versions/Current /System/Libra
  
 
 sudo ln -s /System/Library/Frameworks/Ruby.framework/Versions/1.8 /System/Library/Frameworks/Ruby.framework/Versions/Current
+
+cp -rf /System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby /usr/bin/
